@@ -1,3 +1,5 @@
+Repositório do curso no github: https://github.com/lfrprazeres/trato-tech/blob/main/src/store/reducers/itens.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
